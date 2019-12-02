@@ -1,0 +1,8 @@
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\bin\Release\gemReader.exe
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\bin\Release\gemReader.pdb
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\obj\Release\ResolveAssemblyReference.cache
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\obj\Release\gemReader.Form1.resources
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\obj\Release\gemReader.Properties.Resources.resources
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\obj\Release\gemReader.csproj.GenerateResource.Cache
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\obj\Release\gemReader.exe
+C:\Users\multiply\Desktop\bejewel\gemPlayer\gemReader\obj\Release\gemReader.pdb
